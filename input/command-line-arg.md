@@ -1,3 +1,22 @@
+### Example 1
+
+```bash
+import sys
+
+name = sys.argv[1]
+print("Hello " + name)
+```
+Run
+```bash
+python hello.py John
+```
+Output
+```bash
+Hello John
+```
+
+---
+
 ```bash
 import sys
 
