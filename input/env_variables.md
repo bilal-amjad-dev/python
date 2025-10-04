@@ -1,5 +1,6 @@
 
-It's a variable stored in your computer's system (not in your code). Your program can read it.
+
+### Example 1
 
 ```bash
 On Windows (Command Prompt):
