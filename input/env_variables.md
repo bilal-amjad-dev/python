@@ -19,7 +19,7 @@ import os
 print(os.getenv("USERNAME"))
 ```
 
-Step 3: Run it:
+Run
 ```bash
 python test.py
 ```
