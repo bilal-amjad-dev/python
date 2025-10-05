@@ -11,12 +11,14 @@ for fruit in fruits:
     print(fruit)
 ```
 
-Output: (When it finds "cherry", it **stops** the entire loop.)
+Output: 
 
 ```bash
 apple
 banana
 ```
+
+When it finds "cherry", it **stops** the entire loop.
 
 ---
 
@@ -31,7 +33,7 @@ for fruit in fruits:
     print(fruit)
 ```
 
-Output: (When it finds "cherry", it **skips** it and continues with the rest.)
+Output: 
 
 ```bash
 apple
@@ -39,7 +41,7 @@ banana
 mango
 ```
 
-
+When it finds "cherry", it **skips** it and continues with the rest.
 
 ---
 
