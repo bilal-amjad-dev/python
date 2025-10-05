@@ -1,6 +1,6 @@
 
 
-### Break Example (Stop the loop)
+### `Break` Example (Stop the loop)
 
 ```bash
 fruits = ["apple", "banana", "cherry", "mango"]
@@ -19,7 +19,7 @@ banana
 **Explanation:** When it finds "cherry", it **stops** the entire loop.
 
 
-### Continue Example (Skip to next)
+### `Continue` Example (Skip to next)
 
 ```bash
 fruits = ["apple", "banana", "cherry", "mango"]
