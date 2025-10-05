@@ -11,7 +11,8 @@ for fruit in fruits:
     print(fruit)
 ```
 
-Output:
+**Output:**
+
 ```bash
 apple
 banana
@@ -31,7 +32,7 @@ for fruit in fruits:
     print(fruit)
 ```
 
-Output:
+**Output:**
 
 ```bash
 apple
