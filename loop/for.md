@@ -22,8 +22,8 @@ for i in range(10):
 
 ```bash
 fruits = ["apple", "banana", "cherry"]
-for fruit in fruits:
-    print(fruit)
+for i in fruits:
+    print(i)
 ```
 
 Output:
