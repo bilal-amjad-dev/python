@@ -11,7 +11,7 @@ for fruit in fruits:
     print(fruit)
 ```
 
-**Output:**
+Output:
 
 ```bash
 apple
@@ -32,7 +32,7 @@ for fruit in fruits:
     print(fruit)
 ```
 
-**Output:**
+Output:
 
 ```bash
 apple
@@ -48,12 +48,6 @@ mango
 
 ### Practice Exercise - Automating Log File Analysis
 
-**Introduction**
-
-In this practice exercise, we use a "for" loop to automate the analysis of a log file and identify lines containing the word "error." This demonstrates how loops can be used to process data and extract relevant information efficiently.
-
-**Example:**
-
 ```bash
 log_file = [
    "INFO: Operation successful",
@@ -68,13 +62,12 @@ for line in log_file:
 ```
 
 
-**Output:**
+Output:
 
 ```bash
 ERROR: File not found
 ERROR: Database connection failed
 ```
-In this exercise, the loop iterates through the "log_file" list and prints lines containing the word "ERROR."
 
 
 
