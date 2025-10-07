@@ -15,3 +15,9 @@ elif type == "t2.xlarge":
 else:
  print("your input is not t2.micro, so we cannot")
 ```
+
+
+```bash
+python test.py t2.micro
+```
+
