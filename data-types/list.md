@@ -1,10 +1,13 @@
 
 
 
-**List and loop**
+### List and loop
 
 ```bash
 fruits = ["apple", "banana", "cherry"]
+```
+
+```bash
 for i in fruits:
     print(i)
 ```
